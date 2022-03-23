@@ -1,0 +1,6 @@
+module Pods_UPayment_UPaymentTests {
+  umbrella header "Pods-UPayment-UPaymentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
